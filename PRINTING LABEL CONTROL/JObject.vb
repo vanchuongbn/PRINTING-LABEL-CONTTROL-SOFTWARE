@@ -1,0 +1,4 @@
+﻿
+Class JObject
+
+End Class
